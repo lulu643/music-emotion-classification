@@ -1,0 +1,9 @@
+calm.csv        shape: (9629, 20)   68.9%
+energetic.csv   shape: (3829, 20)   27.4%
+happy.csv       shape: (250, 20)    1.8%
+sad.csv         shape: (266, 20)    1.9%
+-------------------------------------------------------
+calm_with_audio.csv         shape: (9029, 20)   75.5%
+energetic_with_audio.csv    shape: (2535, 20)   21.2%
+happy_with_audio.csv        shape: (172, 20)    1.4%
+sad_with_audio.csv          shape: (232, 20)    1.9%
